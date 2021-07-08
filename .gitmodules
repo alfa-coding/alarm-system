@@ -1,0 +1,3 @@
+[submodule "detection-api"]
+	path = detection-api
+	url = https://github.com/DimasVeliz/detection-api.git
