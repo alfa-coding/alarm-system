@@ -1,0 +1,14 @@
+[
+    {
+        "id":0,
+        "model":"xkk-outdoor"
+    },
+    {
+        "id":1,
+        "model":"fkk-indoor"
+    },
+    {
+        "id":2,
+        "model":"rkk-outdoor"
+    }
+]

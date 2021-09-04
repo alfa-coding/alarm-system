@@ -1,0 +1,38 @@
+[
+    {
+        "id":0,
+        "email":"a0@gmail.com",
+        "hashed_password":"MySecret@2"
+    },
+    {
+        "id":1,
+        "email":"aa@gmail.com",
+        "hashed_password":"MySecret@2"
+    },
+    {
+        "id":2,
+        "email":"bb@gmail.com",
+        "hashed_password":"MySecret@2"
+    },
+    {
+        "id":3,
+        "email":"cc@gmail.com",
+        "hashed_password":"MySecret@2"
+    },
+    {
+        "id":4,
+        "email":"dd@gmail.com",
+        "hashed_password":"MySecret@2"
+    },
+    {
+        "id":5,
+        "email":"ee@gmail.com",
+        "hashed_password":"MySecret@2"
+    },
+    {
+        "id":6,
+        "email":"ff@gmail.com",
+        "hashed_password":"MySecret@2"
+    }
+
+]

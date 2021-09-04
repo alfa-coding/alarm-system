@@ -1,0 +1,86 @@
+[
+    {
+        "id": 0,
+        "id_user": 1,
+        "id_camera_info": 0,
+        "id_operation": 0,
+        "date": "today"
+    },
+    {
+        "id": 1,
+        "id_user": 1,
+        "id_camera_info": 1,
+        "id_operation": 0,
+        "date": "today"
+    },
+    {
+        "id": 2,
+        "id_user": 1,
+        "id_camera_info": 2,
+        "id_operation": 0,
+        "date": "today"
+    },
+    {
+        "id": 3,
+        "id_user": 2,
+        "id_camera_info": 3,
+        "id_operation": 0,
+        "date": "today"
+    },
+    {
+        "id": 4,
+        "id_user": 1,
+        "id_camera_info": 4,
+        "id_operation": 0,
+        "date": "today"
+    },
+    {
+        "id": 5,
+        "id_user": 2,
+        "id_camera_info": 5,
+        "id_operation": 0,
+        "date": "today"
+    },
+    {
+        "id": 6,
+        "id_user": 2,
+        "id_camera_info": 6,
+        "id_operation": 0,
+        "date": "today"
+    },
+    {
+        "id": 7,
+        "id_user": 1,
+        "id_camera_info": 7,
+        "id_operation": 0,
+        "date": "today"
+    },
+    {
+        "id": 8,
+        "id_user": 1,
+        "id_camera_info": 8,
+        "id_operation": 0,
+        "date": "today"
+    },
+    {
+        "id": 9,
+        "id_user": 1,
+        "id_camera_info": 9,
+        "id_operation": 0,
+        "date": "today"
+    },
+    {
+        "id":10,
+        "id_user":1,
+        "id_camera_info":0,
+        "id_operation":3,
+        "date":"today"
+    },
+    {
+        "id":11,
+        "id_user":1,
+        "id_camera_info":0,
+        "id_operation":4,
+        "date":"today"
+    }
+]

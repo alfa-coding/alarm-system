@@ -1,0 +1,27 @@
+[
+    {
+        "id":0,
+        "id_user":3,
+        "id_house":0
+    },
+    {
+        "id":1,
+        "id_user":4,
+        "id_house":0
+    },
+    {
+        "id":2,
+        "id_user":5,
+        "id_house":1
+    },
+    {
+        "id":3,
+        "id_user":6,
+        "id_house":2
+    },
+    {
+        "id":4,
+        "id_user":6,
+        "id_house":3
+    }
+]

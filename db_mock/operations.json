@@ -1,0 +1,22 @@
+[
+    {
+        "id":0,
+        "type":"installation"
+    },
+    {
+        "id":1,
+        "type":"removal"
+    },
+    {
+        "id":2,
+        "type":"repair"
+    },
+    {
+        "id":3,
+        "type":"checkup"
+    },
+    {
+        "id":4,
+        "type":"update"
+    }
+]
